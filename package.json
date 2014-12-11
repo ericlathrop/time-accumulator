@@ -1,0 +1,14 @@
+{
+  "name": "time-accumulator",
+  "version": "0.0.0",
+  "description": "Call a function at a constant rate no matter what the rate the accumulator is called at.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "Eric Lathrop <eric@ericlathrop.com> (http://ericlathrop.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
